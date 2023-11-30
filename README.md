@@ -11,7 +11,9 @@ I have established a UDP socket connection between the Unity game and the python
 Here is a small video of the execution-
 
 
-https://github.com/SiddhPurohit/GoogleCollect/assets/84131034/26d2ba1b-bc96-40e8-804e-89e8b275e723
+https://github.com/SiddhPurohit/GoogleCollect/assets/84131034/836954a2-6cc4-4b8a-82c1-f0559c937cd8
 
 
 The project was made for GDSC-MPSTME.
+
+
